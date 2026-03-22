@@ -1,0 +1,36 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg?color_snake=FFD700&color_dots=#00f5ff,#a78bfa,#ff6b6b,#00f5ff,#a78bfa&color_empty=#050016
+            dist/pacman-dark.svg?color_snake=FFD700&color_dots=#00f5ff,#a78bfa,#ff6b6b,#00f5ff,#a78bfa&color_empty=#050016
+
+      - name: Push Pac-Man SVG to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
