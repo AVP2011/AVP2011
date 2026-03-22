@@ -25,27 +25,30 @@
 
 ## 🧬 About Me
 
-```typescript
-const AryanPandey = {
-  username    : "AVP2011",
-  name        : "Aryan Pandey",
-  location    : "India 🇮🇳",
-  status      : "🎯 Focusing — Building the next big thing",
-  links: {
-    github    : "https://github.com/Aryan201105",
-    instagram : "https://instagram.com/aryan_op2011",
-    linkedin  : "https://linkedin.com/in/aryan-pandey-8b7ba3341",
-  },
-  currentlyBuilding : "🤖 Business Agent — AI-powered automation for the real world",
-  currentlyDoing: [
-    "🔭 Working on awesome open-source projects",
-    "🌱 Leveling up Full Stack + AI/ML skills",
-    "🧠 Diving deep into LLMs & Agentic AI",
-    "🎮 Gaming when the code compiles",
-  ],
-  funFact : "I debug with console.log and I'm not ashamed 😄",
-};
-```
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👨‍💻 Aryan Pandey
+- 📍 **Location:** India 🇮🇳
+- 🎯 **Status:** Focusing — Building the next big thing
+- 🤖 **Building:** Business Agent — AI-powered automation
+- 💬 **Fun Fact:** I debug with `console.log` and I'm not ashamed 😄
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 Currently
+- 🔭 Working on awesome open-source projects
+- 🌱 Leveling up Full Stack + AI/ML skills
+- 🧠 Diving deep into LLMs & Agentic AI
+- 🎮 Gaming when the code compiles
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -151,8 +154,12 @@ const AryanPandey = {
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" width="100%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<br/>
+
+> 💡 **Snake not showing?** Go to **Actions tab → Generate Snake → Run workflow** manually once to generate the SVG into the `output` branch!
 
 </div>
 
