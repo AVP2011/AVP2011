@@ -3,14 +3,12 @@
 <!-- 3D Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARYAN%20PANDEY&fontSize=70&color=0:0d0221,50:0a0a2e,100:0d0221&stroke=00f5ff&strokeWidth=2&fontColor=00f5ff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Tech%20Explorer&descSize=18&descAlignY=75&descColor=7b5ea7" width="100%"/>
 
-<!-- Animated typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey+there!+I'm+Aryan+👋;Building+Cool+Stuff+Since+Day+One+💻;Full+Stack+Dev+%7C+Open+Source+Lover;Always+Learning%2C+Always+Growing+🚀;Let's+Build+Something+Epic+Together!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views + followers badges -->
 <img src="https://komarev.com/ghpvc/?username=AVP2011&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/AVP2011?label=FOLLOWERS&style=for-the-badge&color=7b5ea7&labelColor=0d0221" />
@@ -21,7 +19,6 @@
 
 ---
 
-<!-- About Me Section -->
 <div align="center">
 
 ## 🧬 `< ABOUT ME />`
@@ -45,13 +42,12 @@ const AryanPandey = {
     "⚡ Exploring AI & emerging tech",
     "🎮 Gaming when the code compiles",
   ],
-  funFact       : "I debug with console.log and I'm not ashamed 😄",
+  funFact : "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
 ---
 
-<!-- Tech Stack Section -->
 <div align="center">
 
 ## ⚡ `< TECH ARSENAL />`
@@ -93,53 +89,44 @@ const AryanPandey = {
 
 ---
 
-<!-- GitHub Stats - 3D styled -->
 <div align="center">
 
 ## 📊 `< GITHUB STATS />`
 
 <br/>
 
-<!-- 3D Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=AVP2011&show_icons=true&theme=radical&border_color=00f5ff&bg_color=0d0221&title_color=00f5ff&icon_color=7b5ea7&text_color=ffffff&border_radius=15&include_all_commits=true&count_private=true" height="180em" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVP2011&layout=compact&theme=radical&border_color=00f5ff&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_radius=15&langs_count=8" height="180em" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AVP2011&theme=radical&border=00f5ff&background=0d0221&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=7b5ea7&dates=ffffff&border_radius=15" width="600"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AVP2011&bg_color=0d0221&color=00f5ff&line=7b5ea7&point=ff6b6b&area=true&area_color=00f5ff&border_color=00f5ff&radius=16" width="100%"/>
 
 </div>
 
 ---
 
-<!-- 3D Contribution Snake -->
 <div align="center">
 
 ## 🐍 `< SNAKE EATING MY CONTRIBUTIONS />`
 
 <br/>
 
-<!-- Snake animation — generated via GitHub Actions workflow below -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" />
 </picture>
 
-> ⚙️ **Setup guide for the snake** — See the workflow instructions at the bottom of this README!
-
 </div>
 
 ---
 
-<!-- Trophies -->
 <div align="center">
 
 ## 🏆 `< TROPHIES />`
@@ -152,7 +139,6 @@ const AryanPandey = {
 
 ---
 
-<!-- WakaTime / Dev Quote -->
 <div align="center">
 
 ## 💡 `< DEV PHILOSOPHY />`
@@ -165,7 +151,6 @@ const AryanPandey = {
 
 ---
 
-<!-- Connect Section -->
 <div align="center">
 
 ## 🌐 `< CONNECT WITH ME />`
@@ -183,75 +168,11 @@ const AryanPandey = {
 <a href="https://github.com/Aryan201105">
   <img src="https://img.shields.io/badge/Alt_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <br/><br/>
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0221,50:0a0a2e,100:0d0221&section=footer&fontColor=00f5ff" width="100%"/>
 
-</div>
+<i>✨ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 
----
-
-<!-- Snake Setup Instructions -->
-<details>
-<summary>🛠️ <b>How to activate the Snake animation</b></summary>
-
-<br/>
-
-To get the snake eating your contributions, create this GitHub Actions workflow:
-
-**File:** `.github/workflows/snake.yml` (in your `AVP2011/AVP2011` profile repo)
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
-  workflow_dispatch:          # Run manually anytime
-  push:
-    branches: [main]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Steps:**
-1. Create a repo named `AVP2011` (same as your username) — this is your profile repo
-2. Add the `README.md` file to it
-3. Create the `.github/workflows/snake.yml` file with the code above
-4. Run the workflow manually once from **Actions** tab → the snake SVG will appear!
-
-</details>
-
----
-
-<div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-  <br/><br/>
-  <b>⭐ If you found this cool, give the repo a star! It motivates me to keep building. ⭐</b>
 </div>
