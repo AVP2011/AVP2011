@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Animated Header - using cylone type which renders name reliably -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&text=ARYAN%20PANDEY&fontSize=65&color=0:050016,50:0a0a2e,100:050016&fontColor=00f5ff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Agent%20Builder&descSize=16&descAlignY=68&descColor=a78bfa&stroke=00f5ff&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&text=ARYAN%20PANDEY&fontSize=65&color=0:050016,50:0a0a2e,100:050016&fontColor=00f5ff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20Agent%20Builder&descSize=16&descAlignY=68&descColor=a78bfa&stroke=00f5ff&strokeWidth=1.5" width="100%"/>
 
 <!-- Animated typing banner -->
 <a href="https://git.io/typing-svg">
