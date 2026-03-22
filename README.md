@@ -108,20 +108,7 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🤖  BUSINESS AGENT                                     ║
-║                                                          ║
-║   An AI-powered autonomous agent that streamlines        ║
-║   business workflows — from research & reporting to      ║
-║   decision-making & task automation.                     ║
-║                                                          ║
-║   Stack: LangChain · OpenAI · Python · FastAPI           ║
-║   Status: 🔨 In Active Development                       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=🤖%20BUSINESS%20AGENT&fontSize=36&color=0:050016,50:0d0d3b,100:050016&fontColor=FFD700&animation=twinkling&stroke=FFD700&strokeWidth=1" width="100%"/>
 
 </div>
 
@@ -147,19 +134,15 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🟡 Pac-Man Eating My Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AVP2011/AVP2011/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/pacman.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AVP2011/AVP2011/output/pacman-dark.svg" width="100%" />
 </picture>
-
-<br/>
-
-> 💡 **Snake not showing?** Go to **Actions tab → Generate Snake → Run workflow** manually once to generate the SVG into the `output` branch!
 
 </div>
 
