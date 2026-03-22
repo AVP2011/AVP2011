@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,15 +19,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate Pac-Man contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/pacman.svg?color_snake=FFD700&color_dots=#00f5ff,#a78bfa,#ff6b6b,#00f5ff,#a78bfa&color_empty=#050016
+            dist/pacman-dark.svg?color_snake=FFD700&color_dots=#00f5ff,#a78bfa,#ff6b6b,#00f5ff,#a78bfa&color_empty=#050016
 
-      - name: Push snake to output branch
+      - name: Push Pac-Man SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
