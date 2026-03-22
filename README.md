@@ -161,8 +161,9 @@
 </a>
 &nbsp;
 <a href="https://github.com/Aryan201105">
+  <a href="https://github.com/GRINDWUS">
   <img src="https://img.shields.io/badge/Alt_GitHub-161B22?style=flat-square&logo=github&logoColor=white&labelColor=161B22" height="28"/>
-</a>
+</a></a>
 
 <br/><br/>
 
