@@ -1,172 +1,240 @@
 <div align="center">
 
-<!-- 3D Animated Header - using cylone type which renders name reliably -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&text=ARYAN%20PANDEY&fontSize=65&color=0:050016,50:0a0a2e,100:050016&fontColor=00f5ff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20Agent%20Builder&descSize=16&descAlignY=68&descColor=a78bfa&stroke=00f5ff&strokeWidth=1.5" width="100%"/>
+<img src="./assets/aryan-core.gif" alt="ARYAN CORE" width="100%"/>
 
-<!-- Animated typing banner -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Aryan+%F0%9F%91%8B;Building+a+Business+Agent+%F0%9F%A4%96;Full+Stack+Dev+%7C+AI%2FML+Explorer;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;Let%27s+Build+Something+Epic+Together!" alt="Typing SVG" />
-</a>
+### `☠ ARYAN PANDEY // AI SYSTEMS`
+
+`AI / ML` • `FULL STACK` • `BACKEND SYSTEMS` • `EXPERIMENTATION`
+
+**BUILD → BREAK → MEASURE → REBUILD**
 
 <br/>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=AVP2011&label=PROFILE+VIEWS&color=00f5ff&style=flat-square&labelColor=0d0221" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/AVP2011?label=FOLLOWERS&style=flat-square&color=a78bfa&labelColor=0d0221" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20STATUS-FOCUSING-00f5ff?style=flat-square&labelColor=0d0221" />
+<a href="https://github.com/AVP2011"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aryan-pandey-8b7ba3341"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://aryanvp.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.gif" width="100%" alt="divider"/>
 
----
+## `> SYSTEM_INITIALIZATION`
 
-## 🧬 About Me
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ ARYAN_CORE                                                   │
+├──────────────────────────────────────────────────────────────┤
+│ STATUS      : ONLINE                                         │
+│ DOMAIN      : AI / ML SYSTEMS + FULL STACK                   │
+│ CURRENT     : ENGINEERING + EXPERIMENTATION                  │
+│ OBJECTIVE   : BUILD SYSTEMS THAT SURVIVE REAL CONDITIONS     │
+└──────────────────────────────────────────────────────────────┘
 
-<div align="center">
+> identity.load()
+
+ARYAN VINAY PANDEY
+
+Computer Engineering
+AI / ML Systems
+Full Stack Infrastructure
+
+[████████████████████] ONLINE
+
+> current_objective()
+
+BUILD SYSTEMS.
+BREAK ASSUMPTIONS.
+TRAIN MODELS.
+SHIP PRODUCTS.
+```
+
+Computer Engineering student focused on AI systems, intelligent document processing, retrieval, backend engineering, and production-oriented applications.
+
+The goal is to move beyond simply integrating models and understand the complete system:
+
+```text
+DATA → RETRIEVAL → MODEL → REASONING → EVALUATION → DEPLOYMENT
+```
+
+<img src="./assets/divider.gif" width="100%" alt="divider"/>
+
+## `> ACTIVE_EXPERIMENTS`
+
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 👨‍💻 Aryan Pandey
-- 📍 **Location:** India 🇮🇳
-- 🎯 **Status:** Focusing — Building the next big thing
-- 🤖 **Building:** Business Agent — AI-powered automation
-- 💬 **Fun Fact:** I debug with `console.log` and I'm not ashamed 😄
+### 🔴 CareBridge AI
+**Healthcare × RAG × Policy Intelligence**
+
+AI-powered healthcare policy intelligence platform combining OCR, semantic retrieval, LLM interpretation and rule-based validation.
+
+`FastAPI` `Next.js` `PyTorch` `FAISS` `HuggingFace` `PostgreSQL` `Docker`
+
+[→ Repository](https://github.com/AVP2011)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Currently
-- 🔭 Working on awesome open-source projects
-- 🌱 Leveling up Full Stack + AI/ML skills
-- 🧠 Diving deep into LLMs & Agentic AI
-- 🎮 Gaming when the code compiles
+### 🔴 AstraGuard
+**Semiconductor Reliability × ML Forecasting**
+
+Two-stage reliability system for anomaly screening and degradation forecasting, built around telemetry, explainability and decision fusion.
+
+`Python` `FastAPI` `Next.js` `WebSockets` `SHAP`
+
+[→ Repository](https://github.com/AVP2011)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 VayuVastra
+**GeoSpatial × Governance × Anomaly Detection**
+
+Environmental intelligence dashboard using live CPCB/DPCC sensor data, spatial indexing and automated risk alerts.
+
+`FastAPI` `PostgreSQL` `PostGIS` `Python` `Next.js` `Leaflet`
+
+[→ Repository](https://github.com/AVP2011)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 ScholarSync
+**Trust Scoring × Verification**
+
+Opportunity verification workflow using domain/metadata signals and a Random Forest trust score with explainable feature importance.
+
+`Python` `Scikit-learn` `FastAPI` `Random Forest` `Next.js`
+
+[→ Repository](https://github.com/AVP2011)
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## ⚡ Tech Arsenal
 
 <div align="center">
+<img src="./assets/ai-core.gif" alt="AI Core" width="520"/>
+</div>
+
+## `> AI_CORE`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   PYTORCH           ████████████████████░░                  │
+│   NLP / IR          █████████████████░░░░░                  │
+│   RAG               ████████████████████░░                  │
+│   VECTOR SEARCH     ███████████████████░░░                  │
+│   BACKEND SYSTEMS   ██████████████████████                  │
+│   FULL STACK        ██████████████████████                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Current interests**
+
+- Machine learning fundamentals
+- PyTorch and deep learning
+- NLP and Information Retrieval
+- RAG and semantic search
+- Model evaluation and failure analysis
+- AI system architecture
+- Production ML / MLOps
+- Hybrid AI + deterministic systems
+
+## `> TECH_DNA`
 
 **Languages**
+`Python` `Java` `TypeScript` `JavaScript` `HTML` `CSS`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**AI / ML**
+`PyTorch` `Hugging Face` `FAISS` `LangChain` `Sentence Transformers` `RAG` `Semantic Search` `OCR`
 
-**Frameworks & Libraries**
+**Backend**
+`FastAPI` `Flask` `Spring Boot` `REST APIs` `Async I/O` `JWT`
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Frontend**
+`React` `Next.js` `TailwindCSS`
 
-**Databases & Cloud**
+**Data / Infrastructure**
+`PostgreSQL` `PostGIS` `MongoDB` `Docker` `Git` `GitHub Actions` `Linux` `Postman`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+## `> ENGINEERING_PROTOCOL`
 
-**Tools & Platforms**
+```text
+[01] Understand the problem
+[02] Design the system
+[03] Build the smallest measurable version
+[04] Test failure modes
+[05] Measure instead of guessing
+[06] Iterate
+[07] Deploy
+[08] Document what broke
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+## `> LIVE_SYSTEM`
 
-**🤖 AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
+<div align="center">
+<img src="./assets/live-system.gif" alt="ARYAN_CORE live status" width="640"/>
 </div>
 
----
+<img src="./assets/divider.gif" width="100%" alt="divider"/>
 
-## 🚧 Currently Building
+## `> GITHUB_ACTIVITY`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AVP2011&show_icons=true&hide_border=true&bg_color=050505&title_color=ff1744&text_color=eaeaea&icon_color=ff1744&ring_color=ff1744" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AVP2011&hide_border=true&background=050505&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideLabels=eaeaea&currStreakNum=eaeaea&sideNums=eaeaea&dates=777777" height="170"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AVP2011&bg_color=050505&color=ff1744&line=8b0000&point=ff1744&area=true&hide_border=true" width="95%"/>
+</div>
+
+## `> TERMINAL`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ ARYAN@CORE:~$                                                │
+│                                                              │
+│ $ whoami                                                     │
+│ aryan                                                        │
+│                                                              │
+│ $ ./current_state                                            │
+│ AI/ML ENGINEERING                                            │
+│ FULL STACK SYSTEMS                                           │
+│ EXPERIMENTING                                                │
+│                                                              │
+│ $ ./weaknesses                                               │
+│ Anything I haven't understood deeply enough.                 │
+│                                                              │
+│ $ ./next                                                     │
+│ Learn → Build → Measure → Break → Repeat                     │
+│                                                              │
+│ $ exit                                                       │
+│ CONNECTION TERMINATED                                        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```text
+> ./connect_with_aryan
+```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=🤖%20BUSINESS%20AGENT&fontSize=36&color=0:050016,50:0d0d3b,100:050016&fontColor=FFD700&animation=twinkling&stroke=FFD700&strokeWidth=1" width="100%"/>
+**☠ IF YOU FOUND SOMETHING INTERESTING, OPEN THE CORE.**
 
-</div>
+[GitHub](https://github.com/AVP2011) •
+[LinkedIn](https://linkedin.com/in/aryan-pandey-8b7ba3341) •
+[Portfolio](https://aryanvp.vercel.app)
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AVP2011&show_icons=true&theme=radical&border_color=00f5ff&bg_color=050016&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" height="175em" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVP2011&layout=compact&theme=radical&border_color=00f5ff&bg_color=050016&title_color=00f5ff&text_color=ffffff&border_radius=10&langs_count=8" height="175em" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AVP2011&theme=radical&border=00f5ff&background=050016&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a78bfa&dates=ffffff&border_radius=10" width="580"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AVP2011&bg_color=050016&color=00f5ff&line=a78bfa&point=ff6b6b&area=true&area_color=00f5ff&border_color=00f5ff&radius=10" width="100%"/>
-
-</div>
-
----
-
-## 🟡 My Contributions 
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVP2011/AVP2011/output/pacman.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AVP2011/AVP2011/output/pacman-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/aryan-pandey-8b7ba3341">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/aryan_op2011">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" height="28"/>
-</a>
-&nbsp;
-<a href="https://github.com/Aryan201105">
-  <a href="https://github.com/GRINDWUS">
-  <img src="https://img.shields.io/badge/Alt_GitHub-161B22?style=flat-square&logo=github&logoColor=white&labelColor=161B22" height="28"/>
-</a></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:050016,50:0a0a2e,100:050016&section=footer" width="100%"/>
+`████ SYSTEM ONLINE ████`
 
 </div>
