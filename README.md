@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/AVP2011/CareBridge_AI"><img src="./assets/card_carebridge.gif" alt="CareBridge AI" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/GRINDWUS/AstraGuard"><img src="./assets/card_astraguard.gif" alt="AstraGuard" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/AVP2011/AstraGuard"><img src="./assets/card_astraguard.gif" alt="AstraGuard" width="100%"/></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/AVP2011"><img src="./assets/card_vayuvastra.gif" alt="VayuVastra" width="100%"/></a></td>
