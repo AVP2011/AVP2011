@@ -13,7 +13,7 @@
 <img src="./assets/h_system_initialization.png" alt="SYSTEM_INITIALIZATION" width="100%"/>
 <img src="./assets/boot.gif" alt="ARYAN_CORE status and identity" width="100%"/>
 
-<sub>Computer Engineering student building AI systems, intelligent document processing, retrieval and production backends.<br/>Not just integrating models — understanding the whole system.</sub>
+<sub>Computer Engineering student building AI systems, intelligent document processing, retrieval and production backends.<br/>Not just integrating models understanding the whole system.</sub>
 
 <br/><br/>
 
